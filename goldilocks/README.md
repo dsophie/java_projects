@@ -1,4 +1,4 @@
-# java_projects
+# goldilocks
 
 Project from: https://www.reddit.com/r/dailyprogrammer/comments/5bn0b7/20161107_challenge_291_easy_goldilocks_bear/?sort=new
 
@@ -7,15 +7,7 @@ The task falls to you: given descriptions of Goldilocks' needs and of the availa
 Formal Input
 
 The input begins with a line specifying Goldilocks' weight (as an integer in arbitrary weight-units) and the maximum temperature of porridge she will tolerate (again as an arbitrary-unit integer). This line is then followed by some number of lines, specifying a chair's weight capacity, and the temperature of the porridge in front of it.
-Sample input:
-100 80
-30 50
-130 75
-90 60
-150 85
-120 70
-200 200
-110 100
+
 Interpreting this, Goldilocks has a weight of 100 and a maximum porridge temperature of 80. The first seat at the table has a chair with a capacity of 30 and a portion of porridge with the temperature of 50. The second has a capacity of 130 and temperature of 60, etc.
 Formal Output
 
